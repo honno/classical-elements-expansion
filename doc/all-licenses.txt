@@ -1,0 +1,17 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+
+Files: *
+Copyright: 2018, Matthew Barber <quitesimplymatt@gmail.com>
+License: CC BY 4.0
+
+Files: icons/delapouite
+Copyright: Delapouite <delapouite@gmail.com>
+License: CC BY 3.0
+Comment:
+  Authors website can be found at http://delapouite.com/
+
+Files: icons/lorc
+Copyright: Lorc <ThomasTamblyn@gmail.com>
+License: CC BY 3.0
+Comment:
+  Authors website can be found at http://lorcblog.blogspot.co.uk/
