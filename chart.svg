@@ -5410,12 +5410,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="170.1715"
-     inkscape:cy="499.68264"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="668.14991"
+     inkscape:cy="308.75243"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
-     showgrid="true"
+     inkscape:current-layer="layer21"
+     showgrid="false"
      showguides="false"
      units="px"
      inkscape:window-width="1920"
@@ -5695,7 +5695,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="graph"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:#cccccc;fill-rule:evenodd;stroke:#cccccc;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 229.54724,336.18109 0,380"
@@ -6423,7 +6424,8 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="first-order detail"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#00aa00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -6500,25 +6502,25 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#0044aa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="364.54724"
-       y="738.68109"
+       y="741.18109"
        id="text5150-9-0-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5152-1-2-9"
          x="364.54724"
-         y="738.68109"
+         y="741.18109"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:end;text-anchor:end;fill:#0044aa;fill-opacity:1">Water</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="379.54724"
-       y="738.68109"
+       y="741.18109"
        id="text5146-0-0-6-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5148-9-62-1-2"
          x="379.54724"
-         y="738.68109"
+         y="741.18109"
          style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium Italic';text-align:start;text-anchor:start;fill:#333333">Calm</tspan></text>
   </g>
   <g
@@ -6751,7 +6753,8 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="second-order detail"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40.05545425px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#aa0088;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -7056,7 +7059,8 @@
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="third-order detail"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
        id="flowRoot5138"
@@ -7218,16 +7222,16 @@
          x="602.04724"
          y="976.18109"></tspan></text>
     <rect
-       style="display:inline;opacity:1;fill:#333333;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#333333;fill-opacity:1;stroke:#ffffff;stroke-width:1.90333116;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4404-6-2"
-       width="24.748714"
-       height="24.748741"
-       x="912.68274"
-       y="216.82288"
+       width="23.5525"
+       height="23.552526"
+       x="913.28082"
+       y="217.42099"
        transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
     <path
        sodipodi:type="star"
-       style="display:inline;opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#333333;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4339-9"
        sodipodi:sides="6"
        sodipodi:cx="229.54726"
@@ -7243,7 +7247,7 @@
        transform="matrix(0,1,-1,0,1160.7282,626.63382)" />
     <path
        sodipodi:type="star"
-       style="display:inline;opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#333333;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4374-3"
        sodipodi:sides="10"
        sodipodi:cx="492.04724"
@@ -7382,5 +7386,59 @@
          x="542.04724"
          y="971.18109"
          style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium Italic';text-align:center;text-anchor:middle;fill:#333333">Transcendental state</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer21"
+     inkscape:label="attribution">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="732.04724"
+       y="1003.6811"
+       id="text6531"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6533"
+         x="732.04724"
+         y="1003.6811"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:end;text-anchor:end" /><tspan
+         sodipodi:role="line"
+         x="732.04724"
+         y="1018.9415"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:end;text-anchor:end"
+         id="tspan6535">/u/Honno</tspan><tspan
+         sodipodi:role="line"
+         x="732.04724"
+         y="1031.4415"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:end;text-anchor:end"
+         id="tspan6541">@WhoStoleHonno</tspan><tspan
+         sodipodi:role="line"
+         x="732.04724"
+         y="1043.9415"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:end;text-anchor:end"
+         id="tspan6537">&lt;quitesimplymatt@gmail.com&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="12.04725"
+       y="1018.6811"
+       id="text6531-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="12.04725"
+         y="1018.6811"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:start;text-anchor:start"
+         id="tspan6537-4">Chart by Honno under CC BY 3.0</tspan><tspan
+         sodipodi:role="line"
+         x="12.04725"
+         y="1031.181"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:start;text-anchor:start"
+         id="tspan6596">Icons provided by Lorc and Delapouite under CC BY 3.0 from game-icons.net</tspan><tspan
+         sodipodi:role="line"
+         x="12.04725"
+         y="1043.681"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:start;text-anchor:start"
+         id="tspan6594">Attributions and sources can be found at some repo at github.com/Honno</tspan></text>
   </g>
 </svg>
