@@ -16,7 +16,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="chart.svg">
+   sodipodi:docname="chart.svg"
+   inkscape:export-filename="/home/matthew/Projects/classical-elements-expansion/doc/chart.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs4">
     <marker
@@ -5407,17 +5410,17 @@
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     borderopacity="1"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="410.22381"
-     inkscape:cy="341.75694"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="93.101927"
+     inkscape:cy="597.44196"
      inkscape:document-units="px"
-     inkscape:current-layer="layer20"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="false"
-     units="px"
+     units="mm"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="0"
@@ -5437,7 +5440,8 @@
      inkscape:object-nodes="false"
      inkscape:snap-smooth-nodes="false"
      inkscape:bbox-paths="false"
-     inkscape:snap-text-baseline="true">
+     inkscape:snap-text-baseline="true"
+     inkscape:showpageshadow="true">
     <inkscape:grid
        type="xygrid"
        id="grid4136"
@@ -5457,7 +5461,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -7296,7 +7300,8 @@
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="mini construct"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <rect
        style="display:inline;opacity:1;fill:none;fill-opacity:0.27058824;stroke:#333333;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4218-3"
@@ -7388,8 +7393,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer18"
-     inkscape:label="short explaination"
-     sodipodi:insensitive="true">
+     inkscape:label="short explaination">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -7403,7 +7407,7 @@
          id="tspan6756"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333"><tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
-   id="tspan7135">Fundamentals</tspan> are the <tspan
+   id="tspan7135">Fundamental</tspan> elements are the <tspan
    style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light Italic'"
    id="tspan7145">building blocks of the universe</tspan></tspan><tspan
          sodipodi:role="line"
@@ -7412,7 +7416,7 @@
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333"
          id="tspan6856"><tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
-   id="tspan7137">Terrestials</tspan> represent <tspan
+   id="tspan7137">Terrestrial</tspan> elements represent <tspan
    style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light Italic'"
    id="tspan7147">cycles in space and time</tspan></tspan><tspan
          sodipodi:role="line"
@@ -7421,7 +7425,7 @@
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333"
          id="tspan6895"><tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
-   id="tspan7139">Celestials</tspan> dictate <tspan
+   id="tspan7139">Celestial</tspan> elements dictate <tspan
    style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light Italic'"
    id="tspan7151">higher-level mechanisms of reality</tspan></tspan><tspan
          sodipodi:role="line"
