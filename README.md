@@ -1,6 +1,6 @@
 # Classical Elements Expansion
 
-![chart](doc/chart.png)
+![chart](https://user-images.githubusercontent.com/8246949/43370433-d8d6f2aa-9376-11e8-93ad-e71676358fd6.png)
 
 ## What?
 
