@@ -1,6 +1,6 @@
 # Classical Elements Expansion
 
-![chart](https://raw.githubusercontent.com/Honno/classical-elements-expansion/master/doc/chart.png)
+![chart](doc/chart.png)
 
 ## What?
 
